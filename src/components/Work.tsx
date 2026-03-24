@@ -5,6 +5,12 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
+    title: "Instinctos Website",
+    category: "Entertainment Experience",
+    tools: "Web Development, UI/UX",
+    image: "/images/instinctos.png",
+  },
+  {
     title: "Solid Starters",
     category: "Low-Code Platform",
     tools: "Angular, Next.js, NestJS, MongoDB",
